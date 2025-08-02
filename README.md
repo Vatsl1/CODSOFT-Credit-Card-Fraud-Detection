@@ -29,4 +29,10 @@ The dataset includes real-world credit card transactions, with features already 
 2. Run all cells sequentially
 3. View the model output and evaluation results
 
+## 📂 Dataset
+
+The dataset is too large for GitHub (25MB+), so it is hosted on Google Drive.
+
+🔗 [Download creditcard.csv from here](https://drive.google.com/file/d/1KLVH4wvE3lkwrCJ4FG-rP7rNWocjg_zh/view?usp=sharing)
+
 ---
